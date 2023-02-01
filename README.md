@@ -1,4 +1,5 @@
-### Hi there 👋
+### 안녕하세요 👋  
+어제보다 더 나은 오늘이 되고 싶은 데이터 엔지니어 남정현 입니다.
 
 <!--
 **jaynamm/jaynamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
