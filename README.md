@@ -2,7 +2,10 @@
 어제보다 더 나은 오늘이 되고 싶은 데이터 엔지니어 남정현 입니다.
 
 [![Tistory Badge](https://img.shields.io/badge/TISTORY%20-%20제이%20로그-555263?style=flat&logoColor=white)]("https://jaynamm.tistory.com/")  
-  
+
+Python-3776AB
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
   
 ![jaynamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynamm&show_icons=true&theme=dracula)
 
