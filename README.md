@@ -3,9 +3,7 @@
 
 ![jaynamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynamm&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynamm&layout=compact&theme=dracula)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jaynam)](https://solved.ac/jaynam)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynamm&layout=compact&theme=dracula) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jaynam)](https://solved.ac/jaynam)
 
 
 
