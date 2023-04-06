@@ -6,8 +6,7 @@
      
 ✔︎ Problem Solving from [solved.ac](https://solved.ac)
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jaynam)](https://solved.ac/jaynam)  
-  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jaynam)](https://solved.ac/jaynam) <img src="http://mazandi.herokuapp.com/api?handle=jaynam&theme=dark"/>  
   
 Blog
 ---
