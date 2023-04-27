@@ -19,7 +19,7 @@ Git Summary
      
 Problem Solving From [solved.ac](https://solved.ac)
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jaynam)](https://solved.ac/jaynam) <img src="http://mazandi.herokuapp.com/api?handle=jaynam&theme=dark"/>  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaynam)](https://solved.ac/jaynam) <img src="http://mazandi.herokuapp.com/api?handle=jaynam&theme=dark"/>  
   
 Blog
 ---
