@@ -1,10 +1,20 @@
 ### Hi there 👋  
 어제보다 더 나은 오늘이 되고 싶은 데이터 엔지니어 남정현 입니다.  
+
+⚙︎ **시스템 엔지니어** 로 기상청 슈퍼컴퓨터의 시스템을 다루어보았고  
+⚙︎ **인프라 엔지니어** 로 인프라를 운영하고  
+⚙︎ **데이터 엔지니어** 로 데이터 웨어하우스 운영과 파이프라인을 개선하고 데이터 분석까지
+다양한 경험을 해보았습니다.  
+
+<br>
+  
+Git Summary
+---
   
 ![jaynamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynamm&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynamm&layout=compact&theme=dark)
      
      
-✔︎ Problem Solving from [solved.ac](https://solved.ac)
+Problem Solving From [solved.ac](https://solved.ac)
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jaynam)](https://solved.ac/jaynam) <img src="http://mazandi.herokuapp.com/api?handle=jaynam&theme=dark"/>  
   
