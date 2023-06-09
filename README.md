@@ -13,9 +13,11 @@
   
 Git Summary
 ---
-  
-![jaynamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynamm&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynamm&layout=compact&theme=dracula)  
-[![jhnam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaynamm&theme=dracula&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaynamm&theme=zenburn)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaynamm&theme=zenburn) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaynamm&theme=zenburn)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaynamm&theme=zenburn) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaynamm&theme=zenburn&utcOffset=8)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk&column=4)
      
      
 Problem Solving From [solved.ac](https://solved.ac)
