@@ -14,8 +14,8 @@
 Git Summary
 ---
   
-![jaynamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynamm&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynamm&layout=compact&theme=dark)  
-[![jhnam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaynamm&theme=vue&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![jaynamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynamm&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynamm&layout=compact&theme=dracula)  
+[![jhnam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaynamm&theme=dracula&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
      
      
 Problem Solving From [solved.ac](https://solved.ac)
