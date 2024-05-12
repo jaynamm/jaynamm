@@ -17,7 +17,7 @@ Git Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaynamm&theme=zenburn) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaynamm&theme=zenburn)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaynamm&theme=zenburn) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaynamm&theme=zenburn&utcOffset=8)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk&column=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk&column=5)
      
      
 Problem Solving From [solved.ac](https://solved.ac)
