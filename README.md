@@ -22,7 +22,7 @@ Git Summary
      
 Problem Solving From [solved.ac](https://solved.ac)
 ---
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaynam)](https://solved.ac/jaynam)
+<a href="https://solved.ac/profile/jaynam"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jaynam"></a><br>
   
 Blog
 ---
