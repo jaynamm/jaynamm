@@ -14,8 +14,12 @@
 Git Summary
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaynamm&theme=zenburn)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaynamm&theme=zenburn) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaynamm&theme=zenburn)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaynamm&theme=zenburn) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaynamm&theme=zenburn&utcOffset=8)
+<!-- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaynamm&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaynamm&theme=zenburn)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaynamm&theme=zenburn) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaynamm&theme=zenburn&utcOffset=8)
+-->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk&column=5)
      
@@ -32,14 +36,49 @@ Blog
   
 Skills
 ---
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)  
-![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)  
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?&style=for-the-badge&logo=Apache%20Hadoop&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-FDEE21.svg?&style=for-the-badge&logo=Apache%20Hive&logoColor=white) ![Presto](https://img.shields.io/badge/Presto-5890FF.svg?&style=for-the-badge&logo=Presto&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?&style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white)   
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)  
-![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)  
+* OS  
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)  
+
+* Programming Language  
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=Polars&logoColor=white)  
+
+* Database  
+![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+* Web  
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)  
+
+* Data Engineering  
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21.svg?style=for-the-badge&logo=Apache-Hive&logoColor=black)
+![Presto](https://img.shields.io/badge/Presto-5890FF.svg?&style=for-the-badge&logo=Presto&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?&style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?&style=for-the-badge&logo=Apache%20Spark&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1.svg?style=for-the-badge&logo=Trino&logoColor=white)  
+
+* Container Application  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white)
+
+* Cloud Service  
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)  
+  
+* Collaboration tools  
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)  
 
 <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/jaynamm" width="468"/></a>
 <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/lines/jaynamm?pet-id=1" width="300" height="120"/></a>
