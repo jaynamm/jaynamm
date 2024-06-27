@@ -26,8 +26,9 @@ Git Summary
      
 Problem Solving From [solved.ac](https://solved.ac)
 ---
-<a href="https://solved.ac/profile/jaynam"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jaynam"></a><br>
-  
+<a href="https://solved.ac/profile/jaynam"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jaynam"></a>  
+![LeetCode Stats](https://leetcard.jacoblin.cool/jaynam?theme=light&font=Nanum%20Gothic%20Coding)  
+ 
 Blog
 ---
 [![Tistory](https://img.shields.io/badge/제이로그-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://jaynamm.tistory.com/)
