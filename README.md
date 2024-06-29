@@ -24,7 +24,7 @@ Git Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk&column=5)
      
      
-Problem Solving From [solved.ac](https://solved.ac)
+Problem Solving
 ---
 <a href="https://solved.ac/profile/jaynam"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jaynam"></a>  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jaynam?theme=light&font=Nanum%20Gothic%20Coding)  
