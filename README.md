@@ -82,4 +82,11 @@ Skills
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)  
 
 <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/jaynamm" width="468"/></a>
-<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/lines/jaynamm?pet-id=1" width="300" height="120"/></a>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/jaynamm?pet-id=600908537971297727"
+    width="300"
+    height="120"
+  />
+</a>
+  
