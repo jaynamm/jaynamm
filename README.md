@@ -26,12 +26,12 @@ Git Summary
      
 Problem Solving
 ---
-<a href="https://solved.ac/profile/jaynam"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jaynam"></a>  
-![LeetCode Stats](https://leetcard.jacoblin.cool/jaynam?theme=light&font=Nanum%20Gothic%20Coding)  
+<a href="https://solved.ac/profile/jaynam"><img width="500px" src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=jaynam"></a>  
+![LeetCode Stats](https://leetcard.jacoblin.cool/jaynam?theme=unicorn&font=Noto%20Sans&ext=heatmap)  
  
 Blog
 ---
-[![Tistory](https://img.shields.io/badge/제이로그-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://jaynamm.tistory.com/)
+[![Tistory](https://img.shields.io/badge/제이로그-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white&width=300)](https://jaynamm.tistory.com/)
   
   
   
