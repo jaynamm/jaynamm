@@ -26,7 +26,16 @@ Git Summary
 -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk&column=5)
-     
+  
+<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/jaynamm" width="468"/></a>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/jaynamm?pet-id=600908537971297727"
+    width="300"
+    height="120"
+  />
+</a>
+  
      
 Problem Solving
 ---
@@ -37,9 +46,13 @@ Blog
 ---
 [![Tistory](https://img.shields.io/badge/(구)제이로그-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white&width=300)](https://jaynamm.tistory.com/)
 [![Tistory](https://img.shields.io/badge/제이로그ඣ-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white&width=300)](https://jaynam.tistory.com/)
-  
+
 Skills
 ---
+
+<details>
+<summary>View Skills</summary>
+
 * OS  
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
@@ -82,13 +95,4 @@ Skills
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)  
-
-<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/jaynamm" width="468"/></a>
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jaynamm?pet-id=600908537971297727"
-    width="300"
-    height="120"
-  />
-</a>
-  
+</details>
