@@ -35,9 +35,8 @@ Problem Solving
  
 Blog
 ---
-[![Tistory](https://img.shields.io/badge/제이로그-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white&width=300)](https://jaynamm.tistory.com/)
-  
-  
+[![Tistory](https://img.shields.io/badge/(구)제이로그-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white&width=300)](https://jaynamm.tistory.com/)
+[![Tistory](https://img.shields.io/badge/제이로그ඣ-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white&width=300)](https://jaynam.tistory.com/)
   
 Skills
 ---
@@ -47,7 +46,6 @@ Skills
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)  
 
 * Programming Language  
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white)
