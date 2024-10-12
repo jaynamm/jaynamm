@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import Parser from "rss-parser";
+import moment from 'moment';
  
 // 기존 README.md 파일 읽기
 const readmePath = "README.md";
@@ -27,10 +28,7 @@ const parser = new Parser({
 
   for (let i = 0; i < 10 && i < feed.items.length; i++) {
     const { title, link, pubDate} = feed.items[i];
-
-    const moment = require('moment');
     const formattedDate = moment(pubDate).format('YYYY/MM/DD');
-
     latestPosts += `- [${formattedDate} - ${title}](${link})\n`;
   }
  
