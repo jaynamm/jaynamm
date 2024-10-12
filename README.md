@@ -96,9 +96,12 @@ Skills
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)  
 </details>
-### Latest Blog Posts
 
-- [Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
+  
+  ✅ Latest Blog Post
+  ---
+  
+  - [Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
 - [Leetcode 2332. The Latest Time to Catch a Bus (Python3)](https://jaynam.tistory.com/entry/Leetcode-2332-The-Latest-Time-to-Catch-a-Bus-Python3)
 - [Leetcode 1497. Check If Array Pairs Are Divisible by k (Python3)](https://jaynam.tistory.com/entry/Leetcode-1497-Check-If-Array-Pairs-Are-Divisible-by-k-Python3)
 - [DBeaver timezone 설정하기](https://jaynam.tistory.com/entry/DBeaver-timezone-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
@@ -108,3 +111,4 @@ Skills
 - [Airflow schedule 이해하기](https://jaynam.tistory.com/entry/Airflow-schedule-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [PostgreSQL 기본 명령어](https://jaynam.tistory.com/entry/PostgreSQL-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4)
 - [Spark 이슈 - inconsistent_behavior_cross_version.write_ancient_datetime](https://jaynam.tistory.com/entry/Spark-%EC%9D%B4%EC%8A%88-inconsistentbehaviorcrossversionwriteancientdatetime)
+
