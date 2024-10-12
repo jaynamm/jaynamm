@@ -111,4 +111,3 @@ Latest Blog Post
 - [2024/10/03 - Airflow schedule 이해하기](https://jaynam.tistory.com/entry/Airflow-schedule-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2024/10/01 - PostgreSQL 기본 명령어](https://jaynam.tistory.com/entry/PostgreSQL-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4)
 - [2024/10/01 - Spark 이슈 - inconsistent_behavior_cross_version.write_ancient_datetime](https://jaynam.tistory.com/entry/Spark-%EC%9D%B4%EC%8A%88-inconsistentbehaviorcrossversionwriteancientdatetime)
-
