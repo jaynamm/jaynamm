@@ -27,8 +27,15 @@ const parser = new Parser({
 
   for (let i = 0; i < 10 && i < feed.items.length; i++) {
     console.log(feed.items[i])
-    const { title, link} = feed.items[i];
-    latestPosts += `- [${title}](${link})\n`;
+    const { title, link, pubDate} = feed.items[i];
+
+    // 문자열을 Date 객체로 변환
+    const dateObj = new Date(pubDate);
+
+    // 날짜를 'YYYY-MM-DD' 형식으로 변환
+    const formattedDate = dateObj.toISOString().split('T')[0];
+
+    latestPosts += `- [${formattedDate} - ${title}](${link})\n`;
   }
  
   // 기존 README.md에 최신 블로그 포스트 추가
