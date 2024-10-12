@@ -19,12 +19,7 @@ const parser = new Parser({
   const feed = await parser.parseURL("https://jaynam.tistory.com/rss");
  
   // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-  let latestPosts = `
-
-  Latest Blog Post
-  ---
-  
-  `;
+  let latestPosts = "Latest Blog Post\n---";
 
   for (let i = 0; i < 10 && i < feed.items.length; i++) {
     const { title, link, pubDate} = feed.items[i];
