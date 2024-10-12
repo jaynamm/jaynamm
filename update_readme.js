@@ -12,17 +12,17 @@ const parser = new Parser({
     Accept: "application/rss+xml, application/xml, text/xml; q=0.1",
   },
 });
+
+// 최신 10개의 글의 제목과 링크를 추가할 텍스트 생성
+let latestPosts = `
+Latest Blog Post
+---
+`;
  
 // 최신 블로그 포스트 추가하는 함수
 (async () => {
   // RSS 피드 가져오기
   const feed = await parser.parseURL("https://jaynam.tistory.com/rss");
- 
-  // 최신 5개의 글의 제목과 링크를 추가할 텍스트 생성
-  let latestPosts = `
-  Latest Blog Post
-  ---
-  `;
 
   for (let i = 0; i < 10 && i < feed.items.length; i++) {
     const { title, link, pubDate} = feed.items[i];
