@@ -26,15 +26,15 @@ jobs:
  
       - name: Commit README
         run: | 
-        git config --local user.email polky0421@gmail.com
-        git config --local user.name jaynamm
+          git config --local user.email polky0421@gmail.com
+          git config --local user.name jaynamm
 
-        git pull
+          git pull
 
-        if [ -n "$(git status --porcelain)" ]; then
-          git add README.md
-          git commit -m 'Update README with latest blog posts'
-          git push
-        else
-          echo "No changes to commit"
-        fi
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m 'Update README with latest blog posts'
+            git push
+          else
+            echo "No changes to commit"
+          fi
