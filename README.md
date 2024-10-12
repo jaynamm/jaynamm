@@ -102,17 +102,19 @@ Skills
 
   
 
-  ✅ Latest Blog Post
+  ✅ 
+
+  Latest Blog Post
   ---
   
-  - [2024-10-06 - Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
-- [2024-10-06 - Leetcode 2332. The Latest Time to Catch a Bus (Python3)](https://jaynam.tistory.com/entry/Leetcode-2332-The-Latest-Time-to-Catch-a-Bus-Python3)
-- [2024-10-06 - Leetcode 1497. Check If Array Pairs Are Divisible by k (Python3)](https://jaynam.tistory.com/entry/Leetcode-1497-Check-If-Array-Pairs-Are-Divisible-by-k-Python3)
-- [2024-10-06 - DBeaver timezone 설정하기](https://jaynam.tistory.com/entry/DBeaver-timezone-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-- [2024-10-05 - dbt 설치하기 (with pip)](https://jaynam.tistory.com/entry/dbt-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
-- [2024-10-05 - Leetcode 1191. K-Concatenation Maximum Sum (Python3)](https://jaynam.tistory.com/entry/Leetcode-1191-K-Concatenation-Maximum-Sum-Python3)
-- [2024-10-03 - Airflow DAG argument - schedule (airflow 2.4.0+)](https://jaynam.tistory.com/entry/Airflow-DAG-argument-schedule-airflow-240)
-- [2024-10-03 - Airflow schedule 이해하기](https://jaynam.tistory.com/entry/Airflow-schedule-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-- [2024-10-01 - PostgreSQL 기본 명령어](https://jaynam.tistory.com/entry/PostgreSQL-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4)
-- [2024-10-01 - Spark 이슈 - inconsistent_behavior_cross_version.write_ancient_datetime](https://jaynam.tistory.com/entry/Spark-%EC%9D%B4%EC%8A%88-inconsistentbehaviorcrossversionwriteancientdatetime)
+  - [2024/10/06 - Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
+- [2024/10/06 - Leetcode 2332. The Latest Time to Catch a Bus (Python3)](https://jaynam.tistory.com/entry/Leetcode-2332-The-Latest-Time-to-Catch-a-Bus-Python3)
+- [2024/10/06 - Leetcode 1497. Check If Array Pairs Are Divisible by k (Python3)](https://jaynam.tistory.com/entry/Leetcode-1497-Check-If-Array-Pairs-Are-Divisible-by-k-Python3)
+- [2024/10/06 - DBeaver timezone 설정하기](https://jaynam.tistory.com/entry/DBeaver-timezone-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [2024/10/05 - dbt 설치하기 (with pip)](https://jaynam.tistory.com/entry/dbt-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+- [2024/10/05 - Leetcode 1191. K-Concatenation Maximum Sum (Python3)](https://jaynam.tistory.com/entry/Leetcode-1191-K-Concatenation-Maximum-Sum-Python3)
+- [2024/10/03 - Airflow DAG argument - schedule (airflow 2.4.0+)](https://jaynam.tistory.com/entry/Airflow-DAG-argument-schedule-airflow-240)
+- [2024/10/03 - Airflow schedule 이해하기](https://jaynam.tistory.com/entry/Airflow-schedule-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [2024/10/01 - PostgreSQL 기본 명령어](https://jaynam.tistory.com/entry/PostgreSQL-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4)
+- [2024/10/01 - Spark 이슈 - inconsistent_behavior_cross_version.write_ancient_datetime](https://jaynam.tistory.com/entry/Spark-%EC%9D%B4%EC%8A%88-inconsistentbehaviorcrossversionwriteancientdatetime)
 
