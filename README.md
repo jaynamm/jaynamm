@@ -97,8 +97,10 @@ Skills
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)  
 </details>
 
-Latest Blog Post
----- [2024/10/06 - Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
+
+  Latest Blog Post
+  ---
+  - [2024/10/06 - Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
 - [2024/10/06 - Leetcode 2332. The Latest Time to Catch a Bus (Python3)](https://jaynam.tistory.com/entry/Leetcode-2332-The-Latest-Time-to-Catch-a-Bus-Python3)
 - [2024/10/06 - Leetcode 1497. Check If Array Pairs Are Divisible by k (Python3)](https://jaynam.tistory.com/entry/Leetcode-1497-Check-If-Array-Pairs-Are-Divisible-by-k-Python3)
 - [2024/10/06 - DBeaver timezone 설정하기](https://jaynam.tistory.com/entry/DBeaver-timezone-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
