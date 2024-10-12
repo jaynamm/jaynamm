@@ -97,8 +97,6 @@ Skills
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)  
 </details>
 
-
-  
 Latest Blog Post
 ---
 - [2024/10/06 - Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
