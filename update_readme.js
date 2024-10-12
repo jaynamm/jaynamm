@@ -29,14 +29,14 @@ Latest Blog Post
     const formattedDate = moment(pubDate).format('YYYY/MM/DD');
     latestPosts += `- [${formattedDate} - ${title}](${link})\n`;
   }
- 
-  // 기존 README.md에 최신 블로그 포스트 추가
+
+  // 기존 README.md에 최신 블로그 포스트 추가 (앞뒤 공백 제거)
   const newReadmeContent = readmeContent.includes("Latest Blog Post")
     ? readmeContent.replace(
-        /Latest Blog Post[\s\S]*?(?=\n\n## |\n$)/,
-        latestPosts
+        /Latest Blog Post[\s\S]*?(?=\n\n## |\n$)/, // 기존 블로그 포스트 영역을 대체
+        latestPosts.trim() // 앞뒤 공백 제거
       )
-    : readmeContent + latestPosts;
+    : readmeContent.trim() + "\n\n" + latestPosts.trim();
  
   if (newReadmeContent !== readmeContent) {
     writeFileSync(readmePath, newReadmeContent, "utf8");
