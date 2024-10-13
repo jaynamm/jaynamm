@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2024/10/12 - Github readme 파일에 티스토리 포스트 보여주기](https://jaynam.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%ED%8F%AC%EC%8A%A4%ED%8A%B8-Github-readme-%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B8%B0)
 - [2024/10/06 - Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
 - [2024/10/06 - Leetcode 2332. The Latest Time to Catch a Bus (Python3)](https://jaynam.tistory.com/entry/Leetcode-2332-The-Latest-Time-to-Catch-a-Bus-Python3)
 - [2024/10/06 - Leetcode 1497. Check If Array Pairs Are Divisible by k (Python3)](https://jaynam.tistory.com/entry/Leetcode-1497-Check-If-Array-Pairs-Are-Divisible-by-k-Python3)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2024/10/03 - Airflow DAG argument - schedule (airflow 2.4.0+)](https://jaynam.tistory.com/entry/Airflow-DAG-argument-schedule-airflow-240)
 - [2024/10/03 - Airflow schedule 이해하기](https://jaynam.tistory.com/entry/Airflow-schedule-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2024/10/01 - PostgreSQL 기본 명령어](https://jaynam.tistory.com/entry/PostgreSQL-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4)
-- [2024/10/01 - Spark 이슈 - inconsistent_behavior_cross_version.write_ancient_datetime](https://jaynam.tistory.com/entry/Spark-%EC%9D%B4%EC%8A%88-inconsistentbehaviorcrossversionwriteancientdatetime)
