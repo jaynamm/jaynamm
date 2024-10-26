@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2024/10/25 - Spark filter 와 where 의 차이](https://jaynam.tistory.com/entry/Spark-filter-%EC%99%80-where-%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [2024/10/13 - Github 이슈 - Git: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400](https://jaynam.tistory.com/entry/Github-%EC%9D%B4%EC%8A%88-Git-RPC-failed-HTTP-400-curl-22-The-requested-URL-returned-error-400)
 - [2024/10/13 - Leetcode 2531. Make Number of Distinct Characters Equal (Python3)](https://jaynam.tistory.com/entry/Leetcode-2531-Make-Number-of-Distinct-Characters-Equal-Python3)
 - [2024/10/13 - PostgreSQL TEXT vs VARCHAR](https://jaynam.tistory.com/entry/PostgreSQL-TEXT-vs-VARCHAR)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2024/10/06 - Leetcode 1497. Check If Array Pairs Are Divisible by k (Python3)](https://jaynam.tistory.com/entry/Leetcode-1497-Check-If-Array-Pairs-Are-Divisible-by-k-Python3)
 - [2024/10/06 - DBeaver timezone 설정하기](https://jaynam.tistory.com/entry/DBeaver-timezone-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [2024/10/05 - dbt 설치하기 (with pip)](https://jaynam.tistory.com/entry/dbt-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
-- [2024/10/05 - Leetcode 1191. K-Concatenation Maximum Sum (Python3)](https://jaynam.tistory.com/entry/Leetcode-1191-K-Concatenation-Maximum-Sum-Python3)
