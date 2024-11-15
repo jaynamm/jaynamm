@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2024/11/13 - Pandas AttributeError: 'Engine' object has no attribute 'cursor'](https://jaynam.tistory.com/entry/Pandas-AttributeError-Engine-object-has-no-attribute-cursor)
 - [2024/10/27 - Docker 컨테이너에서 다른 컨테이너 접속하기](https://jaynam.tistory.com/entry/Docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%EB%8B%A4%EB%A5%B8-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0)
 - [2024/10/26 - Ubuntu 방화벽 UFW 사용해보기](https://jaynam.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%B0%A9%ED%99%94%EB%B2%BD-UFW-%EC%84%A4%EC%A0%95)
 - [2024/10/25 - Spark filter 와 where 의 차이](https://jaynam.tistory.com/entry/Spark-filter-%EC%99%80-where-%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2024/10/12 - Github readme 파일에 티스토리 포스트 보여주기](https://jaynam.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%ED%8F%AC%EC%8A%A4%ED%8A%B8-Github-readme-%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B8%B0)
 - [2024/10/06 - Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
 - [2024/10/06 - Leetcode 2332. The Latest Time to Catch a Bus (Python3)](https://jaynam.tistory.com/entry/Leetcode-2332-The-Latest-Time-to-Catch-a-Bus-Python3)
-- [2024/10/06 - Leetcode 1497. Check If Array Pairs Are Divisible by k (Python3)](https://jaynam.tistory.com/entry/Leetcode-1497-Check-If-Array-Pairs-Are-Divisible-by-k-Python3)
