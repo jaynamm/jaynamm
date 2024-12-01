@@ -99,13 +99,13 @@ Skills
 
 Latest Blog Post
 ---
+- [2024/11/30 - Redis 와 Redis Stack 비교하기](https://jaynam.tistory.com/entry/Redis-%EC%99%80-Redis-Stack-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
+- [2024/11/30 - Docker 기반 Redis 설치하기](https://jaynam.tistory.com/entry/Docker-%EA%B8%B0%EB%B0%98-Redis-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+- [2024/11/30 - Docker compose 기반 Grafana 설치하기](https://jaynam.tistory.com/entry/Docker-compose-%EA%B8%B0%EB%B0%98-Grafana-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+- [2024/11/30 - Redash 쿼리 실행 타임아웃 설정](https://jaynam.tistory.com/entry/Redash-%EC%BF%BC%EB%A6%AC-%ED%83%80%EC%9E%84%EC%95%84%EC%9B%83-%EC%84%A4%EC%A0%95)
 - [2024/11/13 - Pandas AttributeError: 'Engine' object has no attribute 'cursor'](https://jaynam.tistory.com/entry/Pandas-AttributeError-Engine-object-has-no-attribute-cursor)
 - [2024/10/27 - Docker 컨테이너에서 다른 컨테이너 접속하기](https://jaynam.tistory.com/entry/Docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%EB%8B%A4%EB%A5%B8-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0)
 - [2024/10/26 - Ubuntu 방화벽 UFW 사용해보기](https://jaynam.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%B0%A9%ED%99%94%EB%B2%BD-UFW-%EC%84%A4%EC%A0%95)
 - [2024/10/25 - Spark filter 와 where 의 차이](https://jaynam.tistory.com/entry/Spark-filter-%EC%99%80-where-%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [2024/10/13 - Github 이슈 - Git: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400](https://jaynam.tistory.com/entry/Github-%EC%9D%B4%EC%8A%88-Git-RPC-failed-HTTP-400-curl-22-The-requested-URL-returned-error-400)
 - [2024/10/13 - Leetcode 2531. Make Number of Distinct Characters Equal (Python3)](https://jaynam.tistory.com/entry/Leetcode-2531-Make-Number-of-Distinct-Characters-Equal-Python3)
-- [2024/10/13 - PostgreSQL TEXT vs VARCHAR](https://jaynam.tistory.com/entry/PostgreSQL-TEXT-vs-VARCHAR)
-- [2024/10/12 - Github readme 파일에 티스토리 포스트 보여주기](https://jaynam.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%ED%8F%AC%EC%8A%A4%ED%8A%B8-Github-readme-%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B8%B0)
-- [2024/10/06 - Apache Spark with Delta Lake](https://jaynam.tistory.com/entry/Apache-Spark-with-Delta-Lake)
-- [2024/10/06 - Leetcode 2332. The Latest Time to Catch a Bus (Python3)](https://jaynam.tistory.com/entry/Leetcode-2332-The-Latest-Time-to-Catch-a-Bus-Python3)
