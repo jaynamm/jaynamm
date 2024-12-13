@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2024/12/12 - ChatGPT 접속이 안된다!](https://jaynam.tistory.com/entry/ChatGPT-%EC%A0%91%EC%86%8D%EC%9D%B4-%EC%95%88%EB%90%9C%EB%8B%A4)
 - [2024/11/30 - Redis 와 Redis Stack 비교하기](https://jaynam.tistory.com/entry/Redis-%EC%99%80-Redis-Stack-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
 - [2024/11/30 - Docker 기반 Redis 설치하기](https://jaynam.tistory.com/entry/Docker-%EA%B8%B0%EB%B0%98-Redis-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 - [2024/11/30 - Docker compose 기반 Grafana 설치하기](https://jaynam.tistory.com/entry/Docker-compose-%EA%B8%B0%EB%B0%98-Grafana-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2024/10/26 - Ubuntu 방화벽 UFW 사용해보기](https://jaynam.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%B0%A9%ED%99%94%EB%B2%BD-UFW-%EC%84%A4%EC%A0%95)
 - [2024/10/25 - Spark filter 와 where 의 차이](https://jaynam.tistory.com/entry/Spark-filter-%EC%99%80-where-%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [2024/10/13 - Github 이슈 - Git: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400](https://jaynam.tistory.com/entry/Github-%EC%9D%B4%EC%8A%88-Git-RPC-failed-HTTP-400-curl-22-The-requested-URL-returned-error-400)
-- [2024/10/13 - Leetcode 2531. Make Number of Distinct Characters Equal (Python3)](https://jaynam.tistory.com/entry/Leetcode-2531-Make-Number-of-Distinct-Characters-Equal-Python3)
