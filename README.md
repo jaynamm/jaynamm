@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2024/12/17 - Grafana Auto refresh interval 설정하기](https://jaynam.tistory.com/entry/Grafana-Auto-refresh-interval-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [2024/12/13 - Grafana Variables 사용해보기](https://jaynam.tistory.com/entry/Grafana-Variables-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [2024/12/12 - ChatGPT 접속이 안된다!](https://jaynam.tistory.com/entry/ChatGPT-%EC%A0%91%EC%86%8D%EC%9D%B4-%EC%95%88%EB%90%9C%EB%8B%A4)
 - [2024/11/30 - Redis 와 Redis Stack 비교하기](https://jaynam.tistory.com/entry/Redis-%EC%99%80-Redis-Stack-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2024/11/13 - Pandas AttributeError: 'Engine' object has no attribute 'cursor'](https://jaynam.tistory.com/entry/Pandas-AttributeError-Engine-object-has-no-attribute-cursor)
 - [2024/10/27 - Docker 컨테이너에서 다른 컨테이너 접속하기](https://jaynam.tistory.com/entry/Docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%EB%8B%A4%EB%A5%B8-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0)
 - [2024/10/26 - Ubuntu 방화벽 UFW 사용해보기](https://jaynam.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%B0%A9%ED%99%94%EB%B2%BD-UFW-%EC%84%A4%EC%A0%95)
-- [2024/10/25 - Spark filter 와 where 의 차이](https://jaynam.tistory.com/entry/Spark-filter-%EC%99%80-where-%EC%9D%98-%EC%B0%A8%EC%9D%B4)
