@@ -22,7 +22,7 @@ Latest Blog Post
 // 최신 블로그 포스트 추가하는 함수
 (async () => {
   // RSS 피드 가져오기
-  const feed = await parser.parseURL("https://jaynam.tistory.com/rss");
+  const feed = await parser.parseURL("https://iavlog.tistory.com/rss");
 
   for (let i = 0; i < 10 && i < feed.items.length; i++) {
     const { title, link, pubDate} = feed.items[i];
