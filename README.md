@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/02/14 - 카프카(kafka) 기본 개념 이해하기 (replication, partition, segment)](https://iavlog.tistory.com/entry/%EC%B9%B4%ED%94%84%EC%B9%B4kafka-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2025/02/10 - Docker 기반 카프카(Kafka) 실습 환경 구성하기](https://iavlog.tistory.com/entry/Docker-%EA%B8%B0%EB%B0%98-%EC%B9%B4%ED%94%84%EC%B9%B4Kafka-%EC%8B%A4%EC%8A%B5-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
 - [2025/02/10 - 카프카(Kafka) 기본 구성](https://iavlog.tistory.com/entry/%EC%B9%B4%ED%94%84%EC%B9%B4Kafka-%EA%B8%B0%EB%B3%B8-%EA%B5%AC%EC%84%B1)
 - [2025/02/09 - 다사다난했던 2024년 한 해를 돌아보며](https://iavlog.tistory.com/entry/%EB%8B%A4%EC%82%AC%EB%8B%A4%EB%82%9C%ED%96%88%EB%8D%98-2024%EB%85%84-%ED%95%9C-%ED%95%B4%EB%A5%BC-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0)
