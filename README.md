@@ -45,7 +45,7 @@ Problem Solving
 Blog
 ---
 [![Tistory](https://img.shields.io/badge/(구)제이로그-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white&width=300)](https://jaynamm.tistory.com/)
-[![Tistory](https://img.shields.io/badge/제이로그ඣ-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white&width=300)](https://jaynam.tistory.com/)
+[![Tistory](https://img.shields.io/badge/제이로그-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white&width=300)](https://iavlog.tistory.com/)
 
 Skills
 ---
