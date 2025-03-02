@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/03/01 - 내가 원하는 일을 한다는 것](https://iavlog.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%9B%90%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%84-%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83)
 - [2025/02/18 - VSCode Compact Folders 비활성화](https://iavlog.tistory.com/entry/VSCode-Compact-Folders-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94)
 - [2025/02/17 - Install Anaconda for MacOS](https://iavlog.tistory.com/entry/Install-Anaconda-for-MacOS)
 - [2025/02/14 - 카프카(kafka) 기본 개념 이해하기 (replication, partition, segment)](https://iavlog.tistory.com/entry/%EC%B9%B4%ED%94%84%EC%B9%B4kafka-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
