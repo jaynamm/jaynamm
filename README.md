@@ -99,6 +99,9 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/03/16 - Jupyter Notebook 에 Conda 가상환경 연결하기](https://iavlog.tistory.com/entry/Jupyter-Notebook-%EC%97%90-Conda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
+- [2025/03/16 - PostgreSQL 데이터 업데이트할 때 유의할 점](https://iavlog.tistory.com/entry/PostgreSQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9D%98%ED%95%A0-%EC%A0%90)
+- [2025/03/16 - PostgreSQL Array Functions and Operators](https://iavlog.tistory.com/entry/PostgreSQL-Array-Functions-and-Operators)
 - [2025/03/01 - 내가 원하는 일을 한다는 것](https://iavlog.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%9B%90%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%84-%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83)
 - [2025/02/18 - VSCode Compact Folders 비활성화](https://iavlog.tistory.com/entry/VSCode-Compact-Folders-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94)
 - [2025/02/17 - Install Anaconda for MacOS](https://iavlog.tistory.com/entry/Install-Anaconda-for-MacOS)
