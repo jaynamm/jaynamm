@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/03/17 - 이직 후 6개월 간의 회고](https://iavlog.tistory.com/entry/%EC%9D%B4%EC%A7%81-%ED%9B%84-6%EA%B0%9C%EC%9B%94-%EA%B0%84%EC%9D%98-%ED%9A%8C%EA%B3%A0)
 - [2025/03/16 - Jupyter Notebook 에 Conda 가상환경 연결하기](https://iavlog.tistory.com/entry/Jupyter-Notebook-%EC%97%90-Conda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
 - [2025/03/16 - PostgreSQL 데이터 업데이트할 때 유의할 점](https://iavlog.tistory.com/entry/PostgreSQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9D%98%ED%95%A0-%EC%A0%90)
 - [2025/03/16 - PostgreSQL Array Functions and Operators](https://iavlog.tistory.com/entry/PostgreSQL-Array-Functions-and-Operators)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2025/02/14 - 카프카(kafka) 기본 개념 이해하기 (replication, partition, segment)](https://iavlog.tistory.com/entry/%EC%B9%B4%ED%94%84%EC%B9%B4kafka-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2025/02/10 - Docker 기반 카프카(Kafka) 실습 환경 구성하기](https://iavlog.tistory.com/entry/Docker-%EA%B8%B0%EB%B0%98-%EC%B9%B4%ED%94%84%EC%B9%B4Kafka-%EC%8B%A4%EC%8A%B5-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
 - [2025/02/10 - 카프카(Kafka) 기본 구성](https://iavlog.tistory.com/entry/%EC%B9%B4%ED%94%84%EC%B9%B4Kafka-%EA%B8%B0%EB%B3%B8-%EA%B5%AC%EC%84%B1)
-- [2025/02/09 - 다사다난했던 2024년 한 해를 돌아보며](https://iavlog.tistory.com/entry/%EB%8B%A4%EC%82%AC%EB%8B%A4%EB%82%9C%ED%96%88%EB%8D%98-2024%EB%85%84-%ED%95%9C-%ED%95%B4%EB%A5%BC-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0)
