@@ -99,6 +99,8 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/03/29 - 리눅스 dmidecode 명령어 - 하드웨어 정보 확인](https://iavlog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-dmidecode-%EB%AA%85%EB%A0%B9%EC%96%B4-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8)
+- [2025/03/29 - FastAPI 경로(path) 매개변수 알아보기](https://iavlog.tistory.com/entry/FastAPI-%EA%B2%BD%EB%A1%9Cpath-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [2025/03/23 - Git Config 설정 및 변경하기](https://iavlog.tistory.com/entry/Git-Config-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0)
 - [2025/03/23 - FastAPI API Router 생성하기](https://iavlog.tistory.com/entry/FastAPI-API-Router-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 - [2025/03/23 - FastAPI 시작하기](https://iavlog.tistory.com/entry/FastAPI-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
@@ -107,5 +109,3 @@ Latest Blog Post
 - [2025/03/16 - Jupyter Notebook 에 Conda 가상환경 연결하기](https://iavlog.tistory.com/entry/Jupyter-Notebook-%EC%97%90-Conda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
 - [2025/03/16 - PostgreSQL 데이터 업데이트할 때 유의할 점](https://iavlog.tistory.com/entry/PostgreSQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9D%98%ED%95%A0-%EC%A0%90)
 - [2025/03/16 - PostgreSQL Array Functions and Operators](https://iavlog.tistory.com/entry/PostgreSQL-Array-Functions-and-Operators)
-- [2025/03/01 - 내가 원하는 일을 한다는 것](https://iavlog.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%9B%90%ED%95%98%EB%8A%94-%EC%9D%BC%EC%9D%84-%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83)
-- [2025/02/18 - VSCode Compact Folders 비활성화](https://iavlog.tistory.com/entry/VSCode-Compact-Folders-%EB%B9%84%ED%99%9C%EC%84%B1%ED%99%94)
