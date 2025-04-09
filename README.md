@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/04/08 - Redash error - psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block](https://iavlog.tistory.com/entry/Redash-error-psycopg2errorsInFailedSqlTransaction-current-transaction-is-aborted-commands-ignored-until-end-of-transaction-block)
 - [2025/04/01 - 티스토리 블로그 SEO 최적화 문제 - 구글 서치 콘솔 임시 이전(302)](https://iavlog.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-SEO-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%B4%EA%B2%B0-%EA%B5%AC%EA%B8%80-%EC%84%9C%EC%B9%98-%EC%BD%98%EC%86%94-%EC%9E%84%EC%8B%9C-%EC%9D%B4%EC%A0%84302)
 - [2025/04/01 - kubectl 명령어 자동 완성 (MacOS)](https://iavlog.tistory.com/entry/kubectl-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%9E%90%EB%8F%99-%EC%99%84%EC%84%B1-MacOS)
 - [2025/03/29 - 리눅스 dmidecode 명령어 - 하드웨어 정보 확인](https://iavlog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-dmidecode-%EB%AA%85%EB%A0%B9%EC%96%B4-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2025/03/23 - FastAPI 시작하기](https://iavlog.tistory.com/entry/FastAPI-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [2025/03/23 - About FastAPI Web Framework](https://iavlog.tistory.com/entry/About-FastAPI-Web-Framework)
 - [2025/03/17 - 이직 후 6개월 간의 회고](https://iavlog.tistory.com/entry/%EC%9D%B4%EC%A7%81-%ED%9B%84-6%EA%B0%9C%EC%9B%94-%EA%B0%84%EC%9D%98-%ED%9A%8C%EA%B3%A0)
-- [2025/03/16 - Jupyter Notebook 에 Conda 가상환경 연결하기](https://iavlog.tistory.com/entry/Jupyter-Notebook-%EC%97%90-Conda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
