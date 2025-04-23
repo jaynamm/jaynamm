@@ -99,6 +99,8 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/04/22 - Vector Store 검색 시 score 이해하기](https://iavlog.tistory.com/entry/Vector-Store-%EA%B2%80%EC%83%89-%EC%8B%9C-score-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [2025/04/22 - RAG Retriever 검색 방법 알아보기](https://iavlog.tistory.com/entry/RAG-Retriever-%EA%B2%80%EC%83%89-%EB%B0%A9%EB%B2%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [2025/04/11 - 우분투 그래픽카드 확인 방법](https://iavlog.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EA%B7%B8%EB%9E%98%ED%94%BD%EC%B9%B4%EB%93%9C-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95)
 - [2025/04/11 - 우분투 디스크 마운트 타입 확인 (HDD 또는 SSD)](https://iavlog.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%94%94%EC%8A%A4%ED%81%AC-%EB%A7%88%EC%9A%B4%ED%8A%B8-%ED%83%80%EC%9E%85-%ED%99%95%EC%9D%B8-HDD-%EB%98%90%EB%8A%94-SSD)
 - [2025/04/08 - Redash error - psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block](https://iavlog.tistory.com/entry/Redash-error-psycopg2errorsInFailedSqlTransaction-current-transaction-is-aborted-commands-ignored-until-end-of-transaction-block)
@@ -107,5 +109,3 @@ Latest Blog Post
 - [2025/03/29 - 리눅스 dmidecode 명령어 - 하드웨어 정보 확인](https://iavlog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-dmidecode-%EB%AA%85%EB%A0%B9%EC%96%B4-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8)
 - [2025/03/29 - FastAPI 경로(path) 매개변수 알아보기](https://iavlog.tistory.com/entry/FastAPI-%EA%B2%BD%EB%A1%9Cpath-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [2025/03/23 - Git Config 설정 및 변경하기](https://iavlog.tistory.com/entry/Git-Config-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0)
-- [2025/03/23 - FastAPI API Router 생성하기](https://iavlog.tistory.com/entry/FastAPI-API-Router-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
-- [2025/03/23 - FastAPI 시작하기](https://iavlog.tistory.com/entry/FastAPI-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
