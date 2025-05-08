@@ -99,6 +99,8 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/05/07 - AI 에이전트(Agent)에 대해서 알아보기](https://iavlog.tistory.com/entry/AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8Agent%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [2025/05/07 - Redash 최신 코드 가져와 직접 빌드해서 적용하기](https://iavlog.tistory.com/entry/Redash-%EC%B5%9C%EC%8B%A0-%EC%BD%94%EB%93%9C-%EA%B0%80%EC%A0%B8%EC%99%80-%EC%A7%81%EC%A0%91-%EB%B9%8C%EB%93%9C%ED%95%B4%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [2025/05/04 - OpenRouter 에서 LLM 모델 사용해보기](https://iavlog.tistory.com/entry/OpenRouter-%EC%97%90%EC%84%9C-LLM-%EB%AA%A8%EB%8D%B8-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [2025/05/02 - 헤맨 만큼 내 땅이다](https://iavlog.tistory.com/entry/%ED%97%A4%EB%A7%A8-%EB%A7%8C%ED%81%BC-%EB%82%B4-%EB%95%85%EC%9D%B4%EB%8B%A4)
 - [2025/04/23 - LangGraph error - ReadTimeout: HTTPSConnectionPool(host='mermaid.ink', port=443): Read timed out. (read timeout=10)](https://iavlog.tistory.com/entry/LangGraph-error-ReadTimeout-HTTPSConnectionPoolhostmermaidink-port443-Read-timed-out-read-timeout10)
@@ -107,5 +109,3 @@ Latest Blog Post
 - [2025/04/11 - 우분투 그래픽카드 확인 방법](https://iavlog.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EA%B7%B8%EB%9E%98%ED%94%BD%EC%B9%B4%EB%93%9C-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95)
 - [2025/04/11 - 우분투 디스크 마운트 타입 확인 (HDD 또는 SSD)](https://iavlog.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%94%94%EC%8A%A4%ED%81%AC-%EB%A7%88%EC%9A%B4%ED%8A%B8-%ED%83%80%EC%9E%85-%ED%99%95%EC%9D%B8-HDD-%EB%98%90%EB%8A%94-SSD)
 - [2025/04/08 - Redash error - psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block](https://iavlog.tistory.com/entry/Redash-error-psycopg2errorsInFailedSqlTransaction-current-transaction-is-aborted-commands-ignored-until-end-of-transaction-block)
-- [2025/04/01 - 티스토리 블로그 SEO 최적화 문제 - 구글 서치 콘솔 임시 이전(302)](https://iavlog.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-SEO-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%B4%EA%B2%B0-%EA%B5%AC%EA%B8%80-%EC%84%9C%EC%B9%98-%EC%BD%98%EC%86%94-%EC%9E%84%EC%8B%9C-%EC%9D%B4%EC%A0%84302)
-- [2025/04/01 - kubectl 명령어 자동 완성 (MacOS)](https://iavlog.tistory.com/entry/kubectl-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%9E%90%EB%8F%99-%EC%99%84%EC%84%B1-MacOS)
