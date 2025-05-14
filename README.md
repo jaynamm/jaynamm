@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/05/13 - LangChain Runnable 객체를 도구(Tool)로 변환](https://iavlog.tistory.com/entry/LangChain-Runnable-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%8F%84%EA%B5%ACTool%EB%A1%9C-%EB%B3%80%ED%99%98)
 - [2025/05/10 - XGBoostError in MacOS M3](https://iavlog.tistory.com/entry/XGBoostError-in-MacOS-M3)
 - [2025/05/10 - LangChain 사용자 정의 도구(Tool) 만들어보기](https://iavlog.tistory.com/entry/LangChain-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%EB%8F%84%EA%B5%ACTool-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0)
 - [2025/05/10 - LangChain ToolCalling 알아보기 (2)](https://iavlog.tistory.com/entry/LangChain-ToolCalling-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-2)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2025/05/07 - Redash 최신 코드 가져와 직접 빌드해서 적용하기](https://iavlog.tistory.com/entry/Redash-%EC%B5%9C%EC%8B%A0-%EC%BD%94%EB%93%9C-%EA%B0%80%EC%A0%B8%EC%99%80-%EC%A7%81%EC%A0%91-%EB%B9%8C%EB%93%9C%ED%95%B4%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [2025/05/04 - OpenRouter 에서 LLM 모델 사용해보기](https://iavlog.tistory.com/entry/OpenRouter-%EC%97%90%EC%84%9C-LLM-%EB%AA%A8%EB%8D%B8-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [2025/05/02 - 헤맨 만큼 내 땅이다](https://iavlog.tistory.com/entry/%ED%97%A4%EB%A7%A8-%EB%A7%8C%ED%81%BC-%EB%82%B4-%EB%95%85%EC%9D%B4%EB%8B%A4)
-- [2025/04/23 - LangGraph error - ReadTimeout: HTTPSConnectionPool(host='mermaid.ink', port=443): Read timed out. (read timeout=10)](https://iavlog.tistory.com/entry/LangGraph-error-ReadTimeout-HTTPSConnectionPoolhostmermaidink-port443-Read-timed-out-read-timeout10)
