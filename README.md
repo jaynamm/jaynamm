@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/06/01 - Python 환경변수 가져오는 함수 비교하기 (os.environ vs os.getenv)](https://iavlog.tistory.com/entry/Python-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94-%ED%95%A8%EC%88%98-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-osenviron-vs-osgetenv)
 - [2025/05/29 - LangGraph StateGraph 이해하기](https://iavlog.tistory.com/entry/LangGraph-StateGraph-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2025/05/28 - Docker overlay2 디스크 용량 차지 문제 해결하기](https://iavlog.tistory.com/entry/Docker-overlay2-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%9A%A9%EB%9F%89-%EC%B0%A8%EC%A7%80-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
 - [2025/05/25 - LangChain Agent 사용해보기](https://iavlog.tistory.com/entry/LangChain-Agent-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2025/05/17 - Google Cloud 실습 - Vertex AI Gemini API를 사용한 멀티모달 검색 증강 생성(RAG)](https://iavlog.tistory.com/entry/Google-Cloud-%EC%8B%A4%EC%8A%B5-Vertex-AI-Gemini-API%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EC%A6%9D%EA%B0%95-%EC%83%9D%EC%84%B1RAG)
 - [2025/05/13 - LangChain Runnable 객체를 도구(Tool)로 변환](https://iavlog.tistory.com/entry/LangChain-Runnable-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%8F%84%EA%B5%ACTool%EB%A1%9C-%EB%B3%80%ED%99%98)
 - [2025/05/10 - XGBoostError in MacOS M3](https://iavlog.tistory.com/entry/XGBoostError-in-MacOS-M3)
-- [2025/05/10 - LangChain 사용자 정의 도구(Tool) 만들어보기](https://iavlog.tistory.com/entry/LangChain-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%EB%8F%84%EA%B5%ACTool-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0)
