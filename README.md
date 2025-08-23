@@ -99,6 +99,8 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/08/22 - Superset Quickstart with Docker compose](https://iavlog.tistory.com/entry/Superset-Quickstart-with-Docker-compose)
+- [2025/08/22 - Postgresql WAL(Write-Ahead Logging) 이해하기](https://iavlog.tistory.com/entry/Postgresql-WALWrite-Ahead-Logging-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2025/08/17 - 로컬 환경에서 쿠버네티스 클러스터 선택하기 (minikube vs kind)](https://iavlog.tistory.com/entry/%EB%A1%9C%EC%BB%AC-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-minikube-vs-kind)
 - [2025/06/28 - BigQuery 테이블에 날짜 및 시간 데이터를 저장할 때 유의할 점](https://iavlog.tistory.com/entry/BigQuery-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EB%82%A0%EC%A7%9C-%EB%B0%8F-%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9D%98%ED%95%A0-%EC%A0%90)
 - [2025/06/22 - 2025 프로그래머스 코드챌린지 2차 예선 - 서버 증설 횟수 (Python3)](https://iavlog.tistory.com/entry/2025-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C%EC%B1%8C%EB%A6%B0%EC%A7%80-2%EC%B0%A8-%EC%98%88%EC%84%A0-%EC%84%9C%EB%B2%84-%EC%A6%9D%EC%84%A4-%ED%9A%9F%EC%88%98-Python3)
@@ -107,5 +109,3 @@ Latest Blog Post
 - [2025/05/28 - Docker overlay2 디스크 용량 차지 문제 해결하기](https://iavlog.tistory.com/entry/Docker-overlay2-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%9A%A9%EB%9F%89-%EC%B0%A8%EC%A7%80-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
 - [2025/05/25 - LangChain Agent 사용해보기](https://iavlog.tistory.com/entry/LangChain-Agent-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [2025/05/25 - Few-shot 프롬프팅을 활요한 Tool Calling 성능 개선하기](https://iavlog.tistory.com/entry/Few-shot-%ED%94%84%EB%A1%AC%ED%94%84%ED%8C%85%EC%9D%84-%ED%99%9C%EC%9A%94%ED%95%9C-Tool-Calling-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
-- [2025/05/19 - Slack webhook 미리보기 표시 안됨 (no preview available)](https://iavlog.tistory.com/entry/Slack-webhook-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EC%95%88%EB%B3%B4%EC%9E%84-no-preview-available)
-- [2025/05/19 - LangChain Vector Store를 도구(Tool) 변환하기](https://iavlog.tistory.com/entry/LangChain-Vector-Store%EB%A5%BC-%EB%8F%84%EA%B5%ACTool-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0)
