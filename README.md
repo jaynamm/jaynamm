@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/08/23 - 카카오엔터테인먼트 서류 합격 후 코딩 테스트 후기 (+푸념)](https://iavlog.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8-%EC%84%9C%EB%A5%98-%ED%95%A9%EA%B2%A9-%ED%9B%84-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9B%84%EA%B8%B0-%ED%91%B8%EB%85%90)
 - [2025/08/22 - Superset Quickstart with Docker compose](https://iavlog.tistory.com/entry/Superset-Quickstart-with-Docker-compose)
 - [2025/08/22 - Postgresql WAL(Write-Ahead Logging) 이해하기](https://iavlog.tistory.com/entry/Postgresql-WALWrite-Ahead-Logging-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2025/08/17 - 로컬 환경에서 쿠버네티스 클러스터 선택하기 (minikube vs kind)](https://iavlog.tistory.com/entry/%EB%A1%9C%EC%BB%AC-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-minikube-vs-kind)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2025/05/29 - LangGraph StateGraph 이해하기](https://iavlog.tistory.com/entry/LangGraph-StateGraph-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2025/05/28 - Docker overlay2 디스크 용량 차지 문제 해결하기](https://iavlog.tistory.com/entry/Docker-overlay2-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%9A%A9%EB%9F%89-%EC%B0%A8%EC%A7%80-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
 - [2025/05/25 - LangChain Agent 사용해보기](https://iavlog.tistory.com/entry/LangChain-Agent-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
-- [2025/05/25 - Few-shot 프롬프팅을 활요한 Tool Calling 성능 개선하기](https://iavlog.tistory.com/entry/Few-shot-%ED%94%84%EB%A1%AC%ED%94%84%ED%8C%85%EC%9D%84-%ED%99%9C%EC%9A%94%ED%95%9C-Tool-Calling-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
