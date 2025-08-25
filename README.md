@@ -99,6 +99,8 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/08/24 - PCCP 기출문제 1번 - 동영상 재생기 (Python3)](https://iavlog.tistory.com/entry/PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-1%EB%B2%88-%EB%8F%99%EC%98%81%EC%83%81-%EC%9E%AC%EC%83%9D%EA%B8%B0-Python3)
+- [2025/08/24 - Python 문자열 앞의 빈 자리를 0으로 채우는 방법](https://iavlog.tistory.com/entry/Python-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%9E%EC%9D%98-%EB%B9%88-%EC%9E%90%EB%A6%AC%EB%A5%BC-0%EC%9C%BC%EB%A1%9C-%EC%B1%84%EC%9A%B0%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [2025/08/23 - 카카오엔터테인먼트 서류 합격 후 코딩 테스트 후기 (+푸념)](https://iavlog.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8-%EC%84%9C%EB%A5%98-%ED%95%A9%EA%B2%A9-%ED%9B%84-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9B%84%EA%B8%B0-%ED%91%B8%EB%85%90)
 - [2025/08/22 - Superset Quickstart with Docker compose](https://iavlog.tistory.com/entry/Superset-Quickstart-with-Docker-compose)
 - [2025/08/22 - Postgresql WAL(Write-Ahead Logging) 이해하기](https://iavlog.tistory.com/entry/Postgresql-WALWrite-Ahead-Logging-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
@@ -107,5 +109,3 @@ Latest Blog Post
 - [2025/06/22 - 2025 프로그래머스 코드챌린지 2차 예선 - 서버 증설 횟수 (Python3)](https://iavlog.tistory.com/entry/2025-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C%EC%B1%8C%EB%A6%B0%EC%A7%80-2%EC%B0%A8-%EC%98%88%EC%84%A0-%EC%84%9C%EB%B2%84-%EC%A6%9D%EC%84%A4-%ED%9A%9F%EC%88%98-Python3)
 - [2025/06/01 - Python 환경변수 가져오는 함수 비교하기 (os.environ vs os.getenv)](https://iavlog.tistory.com/entry/Python-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94-%ED%95%A8%EC%88%98-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-osenviron-vs-osgetenv)
 - [2025/05/29 - LangGraph StateGraph 이해하기](https://iavlog.tistory.com/entry/LangGraph-StateGraph-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-- [2025/05/28 - Docker overlay2 디스크 용량 차지 문제 해결하기](https://iavlog.tistory.com/entry/Docker-overlay2-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%9A%A9%EB%9F%89-%EC%B0%A8%EC%A7%80-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
-- [2025/05/25 - LangChain Agent 사용해보기](https://iavlog.tistory.com/entry/LangChain-Agent-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
