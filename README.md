@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/09/07 - 힘든 시기를 견뎌낸 그 후 그리고 현재](https://iavlog.tistory.com/entry/%ED%9E%98%EB%93%A0-%EC%8B%9C%EA%B8%B0%EB%A5%BC-%EA%B2%AC%EB%8E%8C%EB%82%B8-%EA%B7%B8-%ED%9B%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%98%84%EC%9E%AC)
 - [2025/08/31 - MacOS 환경에서 kind 설치하기](https://iavlog.tistory.com/entry/MacOS-%EC%97%90%EC%84%9C-kind-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 - [2025/08/30 - PCCP 기출문제 2번 - 석유 시추 (Python3)](https://iavlog.tistory.com/entry/PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-2%EB%B2%88-%EC%84%9D%EC%9C%A0-%EC%8B%9C%EC%B6%94-Python3)
 - [2025/08/24 - PCCP 기출문제 1번 - 동영상 재생기 (Python3)](https://iavlog.tistory.com/entry/PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-1%EB%B2%88-%EB%8F%99%EC%98%81%EC%83%81-%EC%9E%AC%EC%83%9D%EA%B8%B0-Python3)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2025/08/22 - Postgresql WAL(Write-Ahead Logging) 이해하기](https://iavlog.tistory.com/entry/Postgresql-WALWrite-Ahead-Logging-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2025/08/17 - 로컬 환경에서 쿠버네티스 클러스터 선택하기 (minikube vs kind)](https://iavlog.tistory.com/entry/%EB%A1%9C%EC%BB%AC-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-minikube-vs-kind)
 - [2025/06/28 - BigQuery 테이블에 날짜 및 시간 데이터를 저장할 때 유의할 점](https://iavlog.tistory.com/entry/BigQuery-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EB%82%A0%EC%A7%9C-%EB%B0%8F-%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9D%98%ED%95%A0-%EC%A0%90)
-- [2025/06/22 - 2025 프로그래머스 코드챌린지 2차 예선 - 서버 증설 횟수 (Python3)](https://iavlog.tistory.com/entry/2025-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C%EC%B1%8C%EB%A6%B0%EC%A7%80-2%EC%B0%A8-%EC%98%88%EC%84%A0-%EC%84%9C%EB%B2%84-%EC%A6%9D%EC%84%A4-%ED%9A%9F%EC%88%98-Python3)
