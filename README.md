@@ -99,6 +99,8 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/09/27 - kubernetes 환경에서 airflow 외부 접속을 위한 포트 설정하기](https://iavlog.tistory.com/entry/airflow-%EC%99%B8%EB%B6%80-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8F%AC%ED%8A%B8-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [2025/09/27 - helm chart 를 사용해서 kubernetes 환경에 airflow 배포하기](https://iavlog.tistory.com/entry/kubernetes-%EC%97%90%EC%84%9C-helm-chart-%EB%A1%9C-airflow-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 - [2025/09/22 - 화해 1차 실무 면접 후기](https://iavlog.tistory.com/entry/%ED%99%94%ED%95%B4-1%EC%B0%A8-%EC%8B%A4%EB%AC%B4-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
 - [2025/09/22 - 소크라에이아이 서류 합격 및 코딩 테스트 후기](https://iavlog.tistory.com/entry/%EC%86%8C%ED%81%AC%EB%9D%BC%EC%97%90%EC%9D%B4%EC%95%84%EC%9D%B4-%EC%84%9C%EB%A5%98-%ED%95%A9%EA%B2%A9-%EB%B0%8F-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 - [2025/09/21 - CDC (Change Data Capture) 에 대해서](https://iavlog.tistory.com/entry/CDC-Change-Data-Capture-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)
@@ -107,5 +109,3 @@ Latest Blog Post
 - [2025/09/12 - dbt 설치하고 사용해보기](https://iavlog.tistory.com/entry/dbt-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [2025/09/12 - dbt 에 대해서 알아보기](https://iavlog.tistory.com/entry/dbt-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [2025/09/07 - 힘든 시기를 견뎌낸 그 후 그리고 현재](https://iavlog.tistory.com/entry/%ED%9E%98%EB%93%A0-%EC%8B%9C%EA%B8%B0%EB%A5%BC-%EA%B2%AC%EB%8E%8C%EB%82%B8-%EA%B7%B8-%ED%9B%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%98%84%EC%9E%AC)
-- [2025/08/31 - MacOS 환경에서 kind 설치하기](https://iavlog.tistory.com/entry/MacOS-%EC%97%90%EC%84%9C-kind-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
-- [2025/08/30 - PCCP 기출문제 2번 - 석유 시추 (Python3)](https://iavlog.tistory.com/entry/PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-2%EB%B2%88-%EC%84%9D%EC%9C%A0-%EC%8B%9C%EC%B6%94-Python3)
