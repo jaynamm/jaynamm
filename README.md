@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2025/12/21 - 2025년 회고](https://iavlog.tistory.com/entry/2025%EB%85%84-%ED%9A%8C%EA%B3%A0)
 - [2025/12/04 - 111퍼센트 최종 면접 후기](https://iavlog.tistory.com/entry/111%ED%8D%BC%EC%84%BC%ED%8A%B8-%EC%B5%9C%EC%A2%85-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
 - [2025/11/28 - 111퍼센트 1차 면접 후기](https://iavlog.tistory.com/entry/111%ED%8D%BC%EC%84%BC%ED%8A%B8-1%EC%B0%A8-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
 - [2025/11/15 - Docker build 실패 (max depth exceeded)](https://iavlog.tistory.com/entry/Docker-build-%EC%8B%A4%ED%8C%A8-max-depth-exceeded)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2025/09/27 - kubernetes 환경에서 airflow 외부 접속을 위한 포트 설정하기](https://iavlog.tistory.com/entry/airflow-%EC%99%B8%EB%B6%80-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8F%AC%ED%8A%B8-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [2025/09/27 - helm chart 를 사용해서 kubernetes 환경에 airflow 배포하기](https://iavlog.tistory.com/entry/kubernetes-%EC%97%90%EC%84%9C-helm-chart-%EB%A1%9C-airflow-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 - [2025/09/22 - 화해 1차 실무 면접 후기](https://iavlog.tistory.com/entry/%ED%99%94%ED%95%B4-1%EC%B0%A8-%EC%8B%A4%EB%AC%B4-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
-- [2025/09/22 - 소크라에이아이 서류 합격 및 코딩 테스트 후기](https://iavlog.tistory.com/entry/%EC%86%8C%ED%81%AC%EB%9D%BC%EC%97%90%EC%9D%B4%EC%95%84%EC%9D%B4-%EC%84%9C%EB%A5%98-%ED%95%A9%EA%B2%A9-%EB%B0%8F-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9B%84%EA%B8%B0)
