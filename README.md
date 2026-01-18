@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2026/01/17 - LangChain 에서의 Agent 와 Chain 의 개념 이해하기](https://iavlog.tistory.com/entry/LangChain-%EC%97%90%EC%84%9C%EC%9D%98-Agent-%EC%99%80-Chain-%EC%9D%98-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2026/01/12 - Python UV 설치해서 사용해보기](https://iavlog.tistory.com/entry/Python-UV-%EC%84%A4%EC%B9%98%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - [2026/01/07 - BigQuery 파티셔닝(Partitioning) 과 샤딩(Sharding) 비교하기](https://iavlog.tistory.com/entry/BigQuery-%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9DPartitioning-%EA%B3%BC-%EC%83%A4%EB%94%A9Sharding-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
 - [2025/12/21 - 2025년 회고](https://iavlog.tistory.com/entry/2025%EB%85%84-%ED%9A%8C%EA%B3%A0)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2025/11/08 - Airflow 3.0 버전 업데이트 알아보기 (3) - 중요한 변화 살펴보기](https://iavlog.tistory.com/entry/Airflow-30-%EB%B2%84%EC%A0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%B3%80%ED%99%94-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
 - [2025/10/11 - Airflow 3.0 버전 업데이트 알아보기 (2) - 중요한 변화 살펴보기](https://iavlog.tistory.com/entry/Airflow-30-%EB%B2%84%EC%A0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-2-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%B3%80%ED%99%94-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
 - [2025/09/28 - Airflow 3.0 버전 업데이트 알아보기 (1) - 하이라이트 살펴보기](https://iavlog.tistory.com/entry/Airflow-30-%EB%B2%84%EC%A0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1-%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
-- [2025/09/27 - kubernetes 환경에서 airflow 외부 접속을 위한 포트 설정하기](https://iavlog.tistory.com/entry/airflow-%EC%99%B8%EB%B6%80-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8F%AC%ED%8A%B8-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
