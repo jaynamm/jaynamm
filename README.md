@@ -99,6 +99,8 @@ Skills
 
 Latest Blog Post
 ---
+- [2026/01/30 - Notion 버튼을 누르면 버튼을 클릭한 사람이 지정되도록 만들기](https://iavlog.tistory.com/entry/Notion-%EB%B2%84%ED%8A%BC%EC%9D%84-%EB%88%84%EB%A5%B4%EB%A9%B4-%EB%B2%84%ED%8A%BC%EC%9D%84-%ED%81%B4%EB%A6%AD%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%A7%80%EC%A0%95%EB%90%98%EB%8F%84%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [2026/01/30 - Airflow 3 버전 API 변경사항 알아보기](https://iavlog.tistory.com/entry/Airflow-3-%EB%B2%84%EC%A0%84%EC%97%90%EC%84%9C-Public-API-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [2026/01/21 - Chain-of-Thought(CoT) 프롬프트 이해하기](https://iavlog.tistory.com/entry/Chain-of-Thought-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2026/01/17 - LangChain 에서의 Agent 와 Chain 의 개념 이해하기](https://iavlog.tistory.com/entry/LangChain-%EC%97%90%EC%84%9C%EC%9D%98-Agent-%EC%99%80-Chain-%EC%9D%98-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2026/01/12 - Python UV 설치해서 사용해보기](https://iavlog.tistory.com/entry/Python-UV-%EC%84%A4%EC%B9%98%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
@@ -107,5 +109,3 @@ Latest Blog Post
 - [2025/12/04 - 111퍼센트 최종 면접 후기](https://iavlog.tistory.com/entry/111%ED%8D%BC%EC%84%BC%ED%8A%B8-%EC%B5%9C%EC%A2%85-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
 - [2025/11/28 - 111퍼센트 1차 면접 후기](https://iavlog.tistory.com/entry/111%ED%8D%BC%EC%84%BC%ED%8A%B8-1%EC%B0%A8-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
 - [2025/11/15 - Docker build 실패 (max depth exceeded)](https://iavlog.tistory.com/entry/Docker-build-%EC%8B%A4%ED%8C%A8-max-depth-exceeded)
-- [2025/11/08 - Airflow 3.0 버전 업데이트 알아보기 (3) - 중요한 변화 살펴보기](https://iavlog.tistory.com/entry/Airflow-30-%EB%B2%84%EC%A0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%B3%80%ED%99%94-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
-- [2025/10/11 - Airflow 3.0 버전 업데이트 알아보기 (2) - 중요한 변화 살펴보기](https://iavlog.tistory.com/entry/Airflow-30-%EB%B2%84%EC%A0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-2-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%B3%80%ED%99%94-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
