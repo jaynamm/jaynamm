@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2026/02/14 - Google Cloud Storage 라이브러리 3.0 이후 업데이트 이슈](https://iavlog.tistory.com/entry/Google-Cloud-Storage-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-30-%EC%9D%B4%ED%9B%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%9D%B4%EC%8A%88)
 - [2026/02/02 - Airflow 3 버전 SQLAlchemy 2.0 호환성 이슈](https://iavlog.tistory.com/entry/Airflow-3-%EB%B2%84%EC%A0%84-SQLAlchemy-20-%ED%98%B8%ED%99%98%EC%84%B1-%EC%9D%B4%EC%8A%88)
 - [2026/01/30 - Notion 버튼을 누르면 버튼을 클릭한 사람이 지정되도록 만들기](https://iavlog.tistory.com/entry/Notion-%EB%B2%84%ED%8A%BC%EC%9D%84-%EB%88%84%EB%A5%B4%EB%A9%B4-%EB%B2%84%ED%8A%BC%EC%9D%84-%ED%81%B4%EB%A6%AD%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%A7%80%EC%A0%95%EB%90%98%EB%8F%84%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [2026/01/30 - Airflow 3 버전 API 변경사항 알아보기](https://iavlog.tistory.com/entry/Airflow-3-%EB%B2%84%EC%A0%84%EC%97%90%EC%84%9C-Public-API-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2026/01/07 - BigQuery 파티셔닝(Partitioning) 과 샤딩(Sharding) 비교하기](https://iavlog.tistory.com/entry/BigQuery-%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9DPartitioning-%EA%B3%BC-%EC%83%A4%EB%94%A9Sharding-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
 - [2025/12/21 - 2025년 회고](https://iavlog.tistory.com/entry/2025%EB%85%84-%ED%9A%8C%EA%B3%A0)
 - [2025/12/04 - 111퍼센트 최종 면접 후기](https://iavlog.tistory.com/entry/111%ED%8D%BC%EC%84%BC%ED%8A%B8-%EC%B5%9C%EC%A2%85-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
-- [2025/11/28 - 111퍼센트 1차 면접 후기](https://iavlog.tistory.com/entry/111%ED%8D%BC%EC%84%BC%ED%8A%B8-1%EC%B0%A8-%EB%A9%B4%EC%A0%91-%ED%9B%84%EA%B8%B0)
