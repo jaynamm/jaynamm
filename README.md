@@ -99,6 +99,7 @@ Skills
 
 Latest Blog Post
 ---
+- [2026/04/17 - BigQuery 스토리지 청구 모델 이해하기 (PHYSICAL vs  LOGICAL)](https://iavlog.tistory.com/entry/BigQuery-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%B2%AD%EA%B5%AC-%EB%AA%A8%EB%8D%B8-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-PHYSICAL-vs-LOGICAL)
 - [2026/03/30 - 데이터 엔지니어링에서 AI 를 어떻게 활용해야할까](https://iavlog.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%97%90%EC%84%9C-AI-%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%9C%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C)
 - [2026/03/30 - Airflow ExternalTaskSensor 사용할 때 유의할 점](https://iavlog.tistory.com/entry/Airflow-ExternalTaskSensor-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9D%98%ED%95%A0-%EC%A0%90)
 - [2026/02/14 - Google Cloud Storage 라이브러리 3.0 이후 업데이트 이슈](https://iavlog.tistory.com/entry/Google-Cloud-Storage-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-30-%EC%9D%B4%ED%9B%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%9D%B4%EC%8A%88)
@@ -108,4 +109,3 @@ Latest Blog Post
 - [2026/01/21 - Chain-of-Thought(CoT) 프롬프트 이해하기](https://iavlog.tistory.com/entry/Chain-of-Thought-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2026/01/17 - LangChain 에서의 Agent 와 Chain 의 개념 이해하기](https://iavlog.tistory.com/entry/LangChain-%EC%97%90%EC%84%9C%EC%9D%98-Agent-%EC%99%80-Chain-%EC%9D%98-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [2026/01/12 - Python UV 설치해서 사용해보기](https://iavlog.tistory.com/entry/Python-UV-%EC%84%A4%EC%B9%98%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
-- [2026/01/07 - BigQuery 파티셔닝(Partitioning) 과 샤딩(Sharding) 비교하기](https://iavlog.tistory.com/entry/BigQuery-%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9DPartitioning-%EA%B3%BC-%EC%83%A4%EB%94%A9Sharding-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
